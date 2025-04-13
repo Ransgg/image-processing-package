@@ -2,7 +2,7 @@
 
 ## Descrição:
 O package image_processing é utilizado para:
-	Processinhg:
+	Processing:
 		- Histogram matching
 		- Structural similarity
 		- Resize image
