@@ -1,7 +1,8 @@
 # Image Processing
 
 ## Descrição:
-O package image_processing é utilizado para:\n
+O package image_processing é utilizado para:  
+
 	Processing:
 		- Histogram matching
 		- Structural similarity
